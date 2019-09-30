@@ -1,0 +1,15 @@
+C:\dev\ConsoleCore\GameTOP\bin\Debug\netcoreapp2.0\GameTOP.deps.json
+C:\dev\ConsoleCore\GameTOP\bin\Debug\netcoreapp2.0\GameTOP.runtimeconfig.json
+C:\dev\ConsoleCore\GameTOP\bin\Debug\netcoreapp2.0\GameTOP.runtimeconfig.dev.json
+C:\dev\ConsoleCore\GameTOP\bin\Debug\netcoreapp2.0\GameTOP.dll
+C:\dev\ConsoleCore\GameTOP\bin\Debug\netcoreapp2.0\GameTOP.pdb
+C:\dev\ConsoleCore\GameTOP\bin\Debug\netcoreapp2.0\GameTOP.Lib.dll
+C:\dev\ConsoleCore\GameTOP\bin\Debug\netcoreapp2.0\GameTOP.Lib.pdb
+C:\dev\ConsoleCore\GameTOP\obj\Debug\netcoreapp2.0\GameTOP.csprojAssemblyReference.cache
+C:\dev\ConsoleCore\GameTOP\obj\Debug\netcoreapp2.0\GameTOP.AssemblyInfoInputs.cache
+C:\dev\ConsoleCore\GameTOP\obj\Debug\netcoreapp2.0\GameTOP.AssemblyInfo.cs
+C:\dev\ConsoleCore\GameTOP\obj\Debug\netcoreapp2.0\GameTOP.csproj.CopyComplete
+C:\dev\ConsoleCore\GameTOP\obj\Debug\netcoreapp2.0\GameTOP.dll
+C:\dev\ConsoleCore\GameTOP\obj\Debug\netcoreapp2.0\GameTOP.pdb
+C:\dev\ConsoleCore\GameTOP\bin\Debug\netcoreapp2.0\GameTOP.Interface.dll
+C:\dev\ConsoleCore\GameTOP\bin\Debug\netcoreapp2.0\GameTOP.Interface.pdb
